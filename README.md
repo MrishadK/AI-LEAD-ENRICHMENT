@@ -78,7 +78,7 @@ Freshworks,freshworks.com,"Freshworks provides a suite of cloud-based customer s
 ```
 
 ### Tools & Technologies
-- Python 3.x 
+- Python 3.10.0
 - Streamlit - Web application framework
 - Google Gemini API - AI model for company analysis
 - Pandas - Data processing and CSV handling
